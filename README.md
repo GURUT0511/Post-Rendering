@@ -40,7 +40,3 @@ Alternatively, run a simple HTTP server in the project directory (recommended fo
 ## Contributing
 
 Contributions or improvements are welcome — open an issue or submit a PR with the change.
-
-## License
-
-This repository is provided without an explicit license. Add a LICENSE file if you want to specify one.
